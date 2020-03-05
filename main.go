@@ -3,5 +3,5 @@ package main
 import "github.com/imam932/go-fullstack/api"
 
 func main()  {
-	api.Run()
+	api.Run() //run app
 }
